@@ -45,7 +45,7 @@ api: {
 ```
 above will be converted to url: `/api/home/books`
 
-## Ploicies
+## Policies
 
 Policies are the middlewares, generally used for intercepting url requests specified in **policies.js**
 
