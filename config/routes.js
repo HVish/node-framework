@@ -4,7 +4,7 @@
  *
  * The controllers are in the directory:
  * 1. /app/api/
- * 2. /app/common/
+ * 2. /app/web/
  *
  * There are two type of routing:
  * 1. For API
