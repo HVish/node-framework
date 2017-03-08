@@ -15,7 +15,7 @@ The views are in `/views/`
 
 Layouts are in `/views/layouts/`
 
-Partials are in `/views/partials`
+Partials are in `/views/partials/`
 
 ## Static Files
 
