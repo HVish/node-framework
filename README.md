@@ -2,6 +2,18 @@
 
 A light-weighted nodejs framework
 
+## Installation
+Run following command in terminal.
+```sh
+# clone the repo
+git clone https://github.com/HVish/node-framework.git
+# Now copy cloned repo to desired directory for your project.
+rsync -av --exclude='.git' node-framework/ your-project-directory/
+cd your-project-directory/
+#install dependencies
+npm install
+```
+
 ## Controllers
 
 The controllers are in the directory:
